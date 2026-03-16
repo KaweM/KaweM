@@ -1,5 +1,4 @@
-Hello! Welcome to my github profile.
-My name is Kauê Miguel and my nickname is KaweM.
+Hello! My name is Kauê Miguel and welcome to my github profile.
 
 - I am interested in Programming, Data Science, FrontEnd and Backend.
 - i am lookin to improve my skills in Programming and English.
