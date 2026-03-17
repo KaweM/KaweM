@@ -1,10 +1,9 @@
-## Hello! My name is Kauê Miguel and welcome to my github profile.
+## Olá meu nome é Kauê Miguel e seja bem vindo ao meu perfil github
 
-- I am interested in Programming, Data Science, FrontEnd and Backend.
-- i am lookin to improve my skills in Programming and English.
-- i am currently studying English and programming lenguages.
-- i am studying English on Wizard.
-- i am learnig programming logic in JavaScript, HTML and CSS on Alura.
+- Tenho interesse em aprender Lógica de programação, Banco de Dados, BackEnd, FrontEnd e I.A.
+- Estou estudando Lógica de programação na Alura.
+- Faço Ánalise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu.
+- Estudo ingles na Wizard.
 - ## Technologies used
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
