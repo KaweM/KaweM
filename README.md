@@ -1,7 +1,29 @@
-## Olá, meu nome é Kauê Miguel e seja bem vindo ao meu perfil github
+# 👋 Olá, eu sou Kauê Miguel
 
-- Tenho interesse em aprender Lógica de programação, Banco de Dados, BackEnd, FrontEnd e I.A.
-- Estou estudando Lógica de programação na Alura.
-- Faço Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu.
-- Estudo ingles na Wizard.
+Bem-vindo ao meu perfil no GitHub.
 
+## 🚀 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, com foco em desenvolvimento de software e evolução contínua na área de tecnologia.
+
+## 📚 Formação e estudos
+
+- Análise e Desenvolvimento de Sistemas — Universidade São Judas Tadeu  
+- Lógica de programação — Alura  
+- Inglês — Wizard  
+
+## 💻 Áreas de interesse
+
+- Back-end  
+- Front-end  
+- Banco de Dados  
+- Lógica de programação  
+- Inteligência Artificial  
+
+## 🎯 Objetivo
+
+Desenvolver habilidades técnicas e adquirir experiência prática por meio de projetos, buscando oportunidades na área de tecnologia.
+
+---
+
+📌 Em constante evolução, utilizando este perfil para compartilhar projetos e aprendizado.
